@@ -9,7 +9,7 @@ On phishing campaigns you may not want to capture users' passwords (GDPR etc) bu
 Rather than submitting the password, only a five character hash of the password is submitted to the `api.pwnedpasswords.com` endpoint. This is known as k-anonymity (read more [here](https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/)).
 
 ## How do I use it?
-Usage: Include `breachcount.js` in the <head> of any HTML file.
+Usage: Include `breachcount.js` in the `<head>` of any HTML file.
 
 ## How does it work?
 The code works as follows:
